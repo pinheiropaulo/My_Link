@@ -1,0 +1,14 @@
+.containerMenu {
+  position: absolute;
+  top: 20px;
+  right: 10%;
+  font-weight: bold;
+  display: flex;
+
+  .menuItem {
+    color: #000;
+    background-color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+  }
+}
